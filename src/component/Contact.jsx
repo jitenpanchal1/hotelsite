@@ -23,7 +23,7 @@ function Contact() {
                                 <MDBIcon icon='map-marker-alt' className='me-3 text-warning' size='lg' />
                                 <div>
                                     <h5 className='fw-bold text-dark'>Our Location</h5>
-                                    <p className='mb-0 text-muted'>C-403 Vandematram icon, Gota<br />Ahmedabad, gujarat 382481</p>
+                                    <p className='mb-0 text-muted'>C-403 Nirman HOmes, Vandematram icon, Gota<br />Ahmedabad, gujarat 382481</p>
                                 </div>
                             </div>
 
